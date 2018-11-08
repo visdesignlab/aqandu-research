@@ -1,5 +1,7 @@
 
-![Image](src)
+![Estimated PM2.5 concentration at 6:00 pm (left panel) and 9:30 pm (right panel) on July 4, 2018.](images/wildfire.png)
+
+[AQ&U Citizen Website](https://aqandu.org)
 
 ## Synopsis
 
