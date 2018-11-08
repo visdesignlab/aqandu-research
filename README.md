@@ -1,7 +1,14 @@
 
-![Estimated PM2.5 concentration at 6:00 pm (left panel) and 9:30 pm (right panel) on July 4, 2018.](images/wildfire.png)
+![](images/wildfire.png)
+*Estimated PM2.5 concentration at 6:00 pm (left panel) and 9:30 pm (right panel) on July 4, 2018.*
 
 [AQ&U Citizen Website](https://aqandu.org)
+
+## Project information
+
+CPS: Synergy: A Layered Framework of Sensors, Models, Land-Use Information and Citizens for Understanding Air Quality in Urban Environments"
+
+Award 1646408
 
 ## Synopsis
 
@@ -93,3 +100,5 @@ The Gen2 system has already received a lot of attention through local outreach c
 Our preliminary results suggest that air quality is generally poorer in under-served communities in the Salt Lake Valley, and this information is critical as the state plans to place two new projects in this area, a new prison and an inland port. This type of baseline information will be extremely useful for policy makers as they attempt to understand and address air quality impacts from these projects.
 
 The space/time models provide visualizations that allow broader audiences to appreciate the behavior of air-quality in the air shed. Events such as fireworks (on holidays), inversions, or wildfires have spatiotemporal patterns that can be better understood when seeing the evolving estimates of PM concentrations (and associated uncertainties). This understanding is impacting the broader discussion about air quality both in terms of individual behavior and policies that affect air quality in the Salt Lake Valley. The created system has broad impact on disciplines related to air quality studies as the system can be used to gather a large number of data at real-time and at low-cost.
+
+![](images/NSFlogo.png)
