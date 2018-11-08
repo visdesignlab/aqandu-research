@@ -14,19 +14,29 @@ The combined system will be a reliable and scalable cyber-physical framework for
 3. estimates of air quality with relatively high resolution in space and time,
 4. validated with quantifiable estimates of expected error,
 5. reasonable expectations of privacy for citizen- based monitoring stations, and
-6. a responsive visualization-based API that can communicate estimates of PM levels and error estimates for any point in the Salt Lake Valley over a defined historical period. 
+6. a responsive visualization-based API that can communicate estimates of PM levels and error estimates for any point in the Salt Lake Valley over a defined historical period.
 
 
 
 ### Personnel
 
-all..
+- Meyer, Miriah PD/PI
+- Gaillardon, Pierre-Emmanuel Co PD/PI
+- Kelly, Kerry Co PD/PI
+- Whitaker, Ross Co PD/PI
+- Goffin, Pascal Postdoctoral (scholar, fellow or other postdoctoral position)
+- Becnel, Tom Graduate Student (research assistant)
+- Biglari, Amir Graduate Student (research assistant)
+- Sahay, Tofigh Graduate Student (research assistant)
+- Hopkins, Aspen Undergraduate Student
+- Taylor, Trenton Undergraduate Student
+- Tingey, Kyle Undergraduate Student
 
 
 
 ### Collaborators
 
-Tony Butterfield
+- Butterfield, Tony
 
 
 
