@@ -27,23 +27,23 @@ The combined system will be a reliable and scalable cyber-physical framework for
 
 ## Personnel
 
-- Meyer, Miriah PD/PI
-- Gaillardon, Pierre-Emmanuel Co PD/PI
-- Kelly, Kerry Co PD/PI
-- Whitaker, Ross Co PD/PI
-- Goffin, Pascal Postdoctoral (scholar, fellow or other postdoctoral position)
-- Becnel, Tom Graduate Student (research assistant)
-- Biglari, Amir Graduate Student (research assistant)
-- Sahay, Tofigh Graduate Student (research assistant)
-- Hopkins, Aspen Undergraduate Student
-- Taylor, Trenton Undergraduate Student
-- Tingey, Kyle Undergraduate Student
+- Miriah Meyer, PD/PI
+- Pierre-Emmanuel Gaillardon,  Co PD/PI
+- Kerry Kelly, Co PD/PI
+- Ross Whitaker, Co PD/PI
+- Pascal Goffin, Postdoctoral (scholar, fellow or other postdoctoral position)
+- Tom Becnel, Graduate Student (research assistant)
+- Amir Biglari, Graduate Student (research assistant)
+- Tofigh Sahay, Graduate Student (research assistant)
+- Aspen Hopkins, Undergraduate Student
+- Trenton Taylor, Undergraduate Student
+- Kyle Tingey, Undergraduate Student
 
 
 
 ## Collaborators
 
-- Butterfield, Tony
+- Tony Butterfield
 
 
 
