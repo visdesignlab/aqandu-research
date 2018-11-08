@@ -56,7 +56,11 @@ Aspen Hopkins, Pascal Goffin, Miriah Meyer (2017). Particulates Matter: Assessin
 
 ### Code
 
-what have we released?
+
+- Frontend; 
+- Modeling:
+- Backend:
+- airU design files:
 
 
 
@@ -68,13 +72,35 @@ get from report
 
 ### Outreach
 
-get from report
+National efforts to disseminate the results included invited talks at US Ignite and MPSoC, and presentations at the annual meetings of AAAR, INEF, Utah Science for Solutions, Annual Utah Air Quality Conference, U.S. Ignite, Utah Ignite, ASEE, Colorado State University. We also presented internationally at City, University of London.
+
+The output of the modeling system is both available online and in the form of animations that are used regularly by the team to present these results to broader audiences.
+
+The team continues to actively perform community outreach, with an emphasis on engaging under-served areas. The local outreach venues included several community council meetings, a TechTalk at the city library, several media interviews, two community events at libraries in underserved communities, and an invited talk at the Utah Council of Engineers. These outreach activities have led to many more host volunteers than the project can support. However, it does allow us to have a rich set of choices for placing sensors in regions where the uncertainty is the highest.
 
 
 
 ### Broader impact outcomes
 
-get from report
+#### Impact on the development of the principal discipline(s) of the project?
+
+The work realized for the Gen2 board advances the field of low-cost air quality monitoring by creating an affordable system. It is the first time a versatile system (supporting all important measurements targeted by the project but also more through extension ports) is realized. The project is also gathering an unprecedented amount particulate matter concentration information that will enable us to understand low-cost sensor performance as well as to understand spatiotemporal patterns in particulate matter pollution. Furthermore, the project is identifying new ways that residents would like to engage with air quality data, leading to novel visualization design ideas.
+
+
+#### Impact on other disciplines?
+
+The created system has broad impact on disciplines related to air quality studies as the system can be used to gather a large number of data at real-time and at low-cost.
+
+
+#### Impact on technology transfer?
+
+The Gen2 system has already received a lot of attention through local outreach communities and asthma study communities. A start-up company, Tetrad: Sensor Network Solutions, LLC, has been created with the objective to fulfill the AirU sensors to local communities and research groups. Tetrad has deployed 150 devices in homes around the valley through the PRISMS research group—a asthma study group. 10 AirU devices have been sold to a professor at Utah State University, who has used them for air quality studies in Palestine, as well as the Logan valley.
+
+### Impact on society beyond science and technology?
+
+Our preliminary results suggest that air quality is generally poorer in under-served communities in the Salt Lake Valley, and this information is critical as the state plans to place two new projects in this area, a new prison and an inland port. This type of baseline information will be extremely useful for policy makers as they attempt to understand and address air quality impacts from these projects.
+
+The space/time models provide visualizations that allow broader audiences to appreciate the behavior of air-quality in the air shed. Events such as fireworks (on holidays), inversions, or wildfires have spatiotemporal patterns that can be better understood when seeing the evolving estimates of PM concentrations (and associated uncertainties). This understanding is impacting the broader discussion about air quality both in terms of individual behavior and policies that affect air quality in the Salt Lake Valley.
 
 
 
