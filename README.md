@@ -64,10 +64,10 @@ Aspen Hopkins, Pascal Goffin, Miriah Meyer (2017). Particulates Matter: Assessin
 ## Code
 
 
-- Frontend; [Link](url)
-- Modeling: [Link](url)
-- Backend: [Link](url)
-- airU design files: [Link](url)
+- Frontend; [Repository](https://github.com/visdesignlab/aqandu)
+- Modeling: [Repository](https://github.com/pgoffin/AirU-website)
+- Backend: [Repository](https://github.com/pgoffin/aqandu_cade_api)
+- AirU Hardware and Firmware: [Repository](https://github.com/LNIS-Projects/AirU)
 
 
 
@@ -101,4 +101,4 @@ Our preliminary results suggest that air quality is generally poorer in under-se
 
 The space/time models provide visualizations that allow broader audiences to appreciate the behavior of air-quality in the air shed. Events such as fireworks (on holidays), inversions, or wildfires have spatiotemporal patterns that can be better understood when seeing the evolving estimates of PM concentrations (and associated uncertainties). This understanding is impacting the broader discussion about air quality both in terms of individual behavior and policies that affect air quality in the Salt Lake Valley. The created system has broad impact on disciplines related to air quality studies as the system can be used to gather a large number of data at real-time and at low-cost.
 
-![](images/NSFlogo.png)
+![](images/NSFlogo-25%size.png)
