@@ -42,7 +42,15 @@ The combined system will be a reliable and scalable cyber-physical framework for
 
 ### Publications
 
-get from reports
+#### Journals or Juried Conference Papers
+
+- K. Le, K. Tingey, T. Becnel, P. Giallardon, T. Butterfield/K. Kelly Building Air Quality Sensors & Citizen Scientists, Chemical Engineering Education. Status = ACCEPTED.
+
+#### Other Conference Presentations / Papers
+- P. Goffin, A. Hopkins, W. Willett, M Meyer. Challenges in Urban Air Quality Data Visualization. Proceedings of the IEEE VIS Workshop on Urban Data Visualization (CityVis).  Status = ACCEPTED
+- K. Kelly, T. Sayahi, A. Petty, A. Butterfield (2017). Evaluation of the Plantower PMS Low-Cost Particulate Matter Sensor. Air Quality: Science for Solutions. Salt Lake City, UT. Status = PUBLISHED
+- T. Sahay, T. Butterfield, K. Kelly (2017). Laboratory and Field Calibration of a Low-Cost Particulate Matter Sensor. AAAR Annual Meeting. Raleigh, NC. Status = PUBLISHED
+Aspen Hopkins, Pascal Goffin, Miriah Meyer (2017). Particulates Matter: Assessing Needs for Air Quality Visualization. IEEE VIS. Status = PUBLISHED
 
 
 
