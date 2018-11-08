@@ -2,7 +2,6 @@
 ![](images/wildfire.png)
 *Estimated PM2.5 concentration at 6:00 pm (left panel) and 9:30 pm (right panel) on July 4, 2018.*
 
-[AQ&U Citizen Website](https://aqandu.org)
 
 ## Project information
 
@@ -57,11 +56,11 @@ The combined system will be a reliable and scalable cyber-physical framework for
 - P. Goffin, A. Hopkins, W. Willett, M Meyer. Challenges in Urban Air Quality Data Visualization. Proceedings of the IEEE VIS Workshop on Urban Data Visualization (CityVis).  Status = ACCEPTED
 - K. Kelly, T. Sayahi, A. Petty, A. Butterfield (2017). Evaluation of the Plantower PMS Low-Cost Particulate Matter Sensor. Air Quality: Science for Solutions. Salt Lake City, UT. Status = PUBLISHED
 - T. Sahay, T. Butterfield, K. Kelly (2017). Laboratory and Field Calibration of a Low-Cost Particulate Matter Sensor. AAAR Annual Meeting. Raleigh, NC. Status = PUBLISHED
-Aspen Hopkins, Pascal Goffin, Miriah Meyer (2017). Particulates Matter: Assessing Needs for Air Quality Visualization. IEEE VIS. Status = PUBLISHED
+- Aspen Hopkins, Pascal Goffin, Miriah Meyer (2017). Particulates Matter: Assessing Needs for Air Quality Visualization. IEEE VIS. Status = PUBLISHED
 
 
 
-## Code
+## Code + Websites
 
 
 - Frontend; [Repository](https://github.com/visdesignlab/aqandu)
@@ -69,7 +68,8 @@ Aspen Hopkins, Pascal Goffin, Miriah Meyer (2017). Particulates Matter: Assessin
 - Backend: [Repository](https://github.com/pgoffin/aqandu_cade_api)
 - AirU Hardware and Firmware: [Repository](https://github.com/LNIS-Projects/AirU)
 
-
+- AQ&U Citizen Website: [Website](https://aqandu.org)
+- Public Air Quality Data API:[Website](https://air.eng.utah.edu/dbapi/api/dashboard)
 
 ## Educational activities
 
