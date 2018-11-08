@@ -1,12 +1,67 @@
-## Welcome to GitHub Pages
+## AQ&U something
 
-You can use the [editor on GitHub](https://github.com/visdesignlab/aqandu-research/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Synopsis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A low-cost, efficient pollution monitoring embedded system is currently under design by the electrical engineering team. The goal is a device that does not significantly sacrifice accuracy of PM concentration measurement for a small, low-cost, low-power footprint. Each station is fully self-contained, and is capable of relaying data about its environment to a cloud storage at an arbitrarily rapid rate. The stations will be distributed across Salt Lake City through a citizen science engagement effort.
+The computer science team will stream the measurements into a statistical modeling system to estimate PM levels across Salt Lake City. This system will combine sensor measurements with land-use information to produce accurate, real-time estimates and fine-grained resolutions. The estimates will be communicated to the public through a web-based visualization interface. This interface will include advanced functionality to support individualized sense-making of PM exposures.
+
+The combined system will be a reliable and scalable cyber-physical framework for estimating air quality at a fine-grain in both space and time, coupled with fundamental breakthroughs in low-cost sensing, reliable modeling of environmental factors, and communication of air quality to the public. The proposed system should demonstrate the following:
+1. flexible, general, integrated approach to acquiring PM measurements with varying degrees of density/accuracy/reliability,
+2. incorporating land use, topographic data, and weather data, with sensor measurements
+3. estimates of air quality with relatively high resolution in space and time,
+4. validated with quantifiable estimates of expected error,
+5. reasonable expectations of privacy for citizen- based monitoring stations, and
+6. a responsive visualization-based API that can communicate estimates of PM levels and error estimates for any point in the Salt Lake Valley over a defined historical period. 
+
+
+
+### Personnel
+
+all..
+
+
+
+### Collaborators
+
+Tony Butterfield
+
+
+
+### Publications
+
+get from reports
+
+
+
+### Code
+
+what have we released?
+
+
+
+### Educational activities
+
+get from report
+
+
+
+### Outreach
+
+get from report
+
+
+
+### Broader impact outcomes
+
+get from report
+
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -27,11 +82,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/visdesignlab/aqandu-research/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
