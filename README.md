@@ -1,9 +1,7 @@
-## AQ&U something
 
-description
+![Image](src)
 
-
-### Synopsis
+## Synopsis
 
 A low-cost, efficient pollution monitoring embedded system is currently under design by the electrical engineering team. The goal is a device that does not significantly sacrifice accuracy of PM concentration measurement for a small, low-cost, low-power footprint. Each station is fully self-contained, and is capable of relaying data about its environment to a cloud storage at an arbitrarily rapid rate. The stations will be distributed across Salt Lake City through a citizen science engagement effort.
 The computer science team will stream the measurements into a statistical modeling system to estimate PM levels across Salt Lake City. This system will combine sensor measurements with land-use information to produce accurate, real-time estimates and fine-grained resolutions. The estimates will be communicated to the public through a web-based visualization interface. This interface will include advanced functionality to support individualized sense-making of PM exposures.
@@ -18,7 +16,7 @@ The combined system will be a reliable and scalable cyber-physical framework for
 
 
 
-### Personnel
+## Personnel
 
 - Meyer, Miriah PD/PI
 - Gaillardon, Pierre-Emmanuel Co PD/PI
@@ -34,19 +32,19 @@ The combined system will be a reliable and scalable cyber-physical framework for
 
 
 
-### Collaborators
+## Collaborators
 
 - Butterfield, Tony
 
 
 
-### Publications
+## Publications
 
-#### Journals or Juried Conference Papers
+### Journals or Juried Conference Papers
 
 - K. Le, K. Tingey, T. Becnel, P. Giallardon, T. Butterfield/K. Kelly Building Air Quality Sensors & Citizen Scientists, Chemical Engineering Education. Status = ACCEPTED.
 
-#### Other Conference Presentations / Papers
+### Other Conference Presentations / Papers
 - P. Goffin, A. Hopkins, W. Willett, M Meyer. Challenges in Urban Air Quality Data Visualization. Proceedings of the IEEE VIS Workshop on Urban Data Visualization (CityVis).  Status = ACCEPTED
 - K. Kelly, T. Sayahi, A. Petty, A. Butterfield (2017). Evaluation of the Plantower PMS Low-Cost Particulate Matter Sensor. Air Quality: Science for Solutions. Salt Lake City, UT. Status = PUBLISHED
 - T. Sahay, T. Butterfield, K. Kelly (2017). Laboratory and Field Calibration of a Low-Cost Particulate Matter Sensor. AAAR Annual Meeting. Raleigh, NC. Status = PUBLISHED
@@ -54,23 +52,23 @@ Aspen Hopkins, Pascal Goffin, Miriah Meyer (2017). Particulates Matter: Assessin
 
 
 
-### Code
+## Code
 
 
-- Frontend; 
-- Modeling:
-- Backend:
-- airU design files:
+- Frontend; [Link](url)
+- Modeling: [Link](url)
+- Backend: [Link](url)
+- airU design files: [Link](url)
 
 
 
-### Educational activities
+## Educational activities
 
 get from report
 
 
 
-### Outreach
+## Outreach
 
 National efforts to disseminate the results included invited talks at US Ignite and MPSoC, and presentations at the annual meetings of AAAR, INEF, Utah Science for Solutions, Annual Utah Air Quality Conference, U.S. Ignite, Utah Ignite, ASEE, Colorado State University. We also presented internationally at City, University of London.
 
@@ -80,19 +78,19 @@ The team continues to actively perform community outreach, with an emphasis on e
 
 
 
-### Broader impact outcomes
+## Broader impact outcomes
 
-#### Impact on the development of the principal discipline(s) of the project?
+### Impact on the development of the principal discipline(s) of the project?
 
 The work realized for the Gen2 board advances the field of low-cost air quality monitoring by creating an affordable system. It is the first time a versatile system (supporting all important measurements targeted by the project but also more through extension ports) is realized. The project is also gathering an unprecedented amount particulate matter concentration information that will enable us to understand low-cost sensor performance as well as to understand spatiotemporal patterns in particulate matter pollution. Furthermore, the project is identifying new ways that residents would like to engage with air quality data, leading to novel visualization design ideas.
 
 
-#### Impact on other disciplines?
+### Impact on other disciplines?
 
 The created system has broad impact on disciplines related to air quality studies as the system can be used to gather a large number of data at real-time and at low-cost.
 
 
-#### Impact on technology transfer?
+### Impact on technology transfer?
 
 The Gen2 system has already received a lot of attention through local outreach communities and asthma study communities. A start-up company, Tetrad: Sensor Network Solutions, LLC, has been created with the objective to fulfill the AirU sensors to local communities and research groups. Tetrad has deployed 150 devices in homes around the valley through the PRISMS research group—a asthma study group. 10 AirU devices have been sold to a professor at Utah State University, who has used them for air quality studies in Palestine, as well as the Logan valley.
 
@@ -101,28 +99,3 @@ The Gen2 system has already received a lot of attention through local outreach c
 Our preliminary results suggest that air quality is generally poorer in under-served communities in the Salt Lake Valley, and this information is critical as the state plans to place two new projects in this area, a new prison and an inland port. This type of baseline information will be extremely useful for policy makers as they attempt to understand and address air quality impacts from these projects.
 
 The space/time models provide visualizations that allow broader audiences to appreciate the behavior of air-quality in the air shed. Events such as fireworks (on holidays), inversions, or wildfires have spatiotemporal patterns that can be better understood when seeing the evolving estimates of PM concentrations (and associated uncertainties). This understanding is impacting the broader discussion about air quality both in terms of individual behavior and policies that affect air quality in the Salt Lake Valley.
-
-
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
