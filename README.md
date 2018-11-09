@@ -63,7 +63,7 @@ The combined system will be a reliable and scalable cyber-physical framework for
 ## Code + Websites
 
 
-- Frontend; [Repository](https://github.com/visdesignlab/aqandu)
+- Frontend: [Repository](https://github.com/visdesignlab/aqandu)
 - Modeling: [Repository](https://github.com/pgoffin/AirU-website)
 - Backend: [Repository](https://github.com/pgoffin/aqandu_cade_api)
 - AirU Hardware and Firmware: [Repository](https://github.com/LNIS-Projects/AirU)
