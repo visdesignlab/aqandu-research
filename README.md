@@ -1,6 +1,6 @@
 
 ![](images/wildfire.png)
-*Estimated PM2.5 concentration at 6:00 pm (left panel) and 9:30 pm (right panel) on July 4, 2018.*
+*Estimated PM2.5 concentration at 6:00 pm (left panel) and 9:30 pm (right panel) on July 4, 2018. The dotted line indicates the area where fireworks are prohibited.*
 
 
 ## Project information
@@ -37,6 +37,7 @@ The combined system will be a reliable and scalable cyber-physical framework for
 - Aspen Hopkins, Undergraduate Student
 - Trenton Taylor, Undergraduate Student
 - Kyle Tingey, Undergraduate Student
+- Matt Dailey, Undergraduate Student
 
 
 
@@ -50,7 +51,7 @@ The combined system will be a reliable and scalable cyber-physical framework for
 
 ### Journals or Juried Conference Papers
 
-- K. Le, K. Tingey, T. Becnel, P. Giallardon, T. Butterfield/K. Kelly Building Air Quality Sensors & Citizen Scientists, Chemical Engineering Education. Status = ACCEPTED.
+- K. Le, K. Tingey, T. Becnel, P. Giallardon, T. Butterfield/K. Kelly Building Air Quality Sensors & Citizen Scientists, Chemical Engineering Education. Proc. ASEE Annual Meeting, June 23 – 27, Salt Lake City, UT. Status = ACCEPTED.
 
 ### Other Conference Presentations / Papers
 - P. Goffin, A. Hopkins, W. Willett, M Meyer. Challenges in Urban Air Quality Data Visualization. Proceedings of the IEEE VIS Workshop on Urban Data Visualization (CityVis).  Status = ACCEPTED
