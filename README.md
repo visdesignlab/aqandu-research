@@ -5,9 +5,9 @@
 
 ## Project information
 
-CPS: Synergy: A Layered Framework of Sensors, Models, Land-Use Information and Citizens for Understanding Air Quality in Urban Environments"
+NSF: CPS: Synergy: A Layered Framework of Sensors, Models, Land-Use Information and Citizens for Understanding Air Quality in Urban Environments"
 
-Award 1646408
+NSF Award 1646408
 
 ## Synopsis
 
@@ -86,7 +86,7 @@ The project also featured prominently in two summer camps, and this work was per
 
 ## Outreach
 
-National efforts to disseminate the results included invited talks at US Ignite and MPSoC, and presentations at the annual meetings of AAAR, INEF, Utah Science for Solutions, Annual Utah Air Quality Conference, U.S. Ignite, Utah Ignite, ASEE, Colorado State University. We also presented internationally at City, University of London. The output of the modeling system is both available online and in the form of animations that are used regularly by the team to present these results to broader audiences.
+National efforts to disseminate the results included invited talks at US Ignite and MPSoC, and presentations at the annual meetings of AAAR, INEF, UCAIR, Utah Science for Solutions, Annual Utah Air Quality Conference, U.S. Ignite, Utah Ignite, ASEE, Colorado State University. We also presented internationally at City, University of London. The output of the modeling system is both available online and in the form of animations that are used regularly by the team to present these results to broader audiences.
 
 The team continues to actively perform community outreach, with an emphasis on engaging under-served areas. The local outreach venues included several community council meetings, a TechTalk at the city library, several media interviews, two community events at libraries in underserved communities, and an invited talk at the Utah Council of Engineers. These outreach activities have led to many more host volunteers than the project can support. However, it does allow us to have a rich set of choices for placing sensors in regions where the uncertainty is the highest.
 
