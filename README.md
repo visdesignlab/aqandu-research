@@ -34,10 +34,13 @@ The combined system will be a reliable and scalable cyber-physical framework for
 - Tom Becnel, Graduate Student (research assistant)
 - Amir Biglari, Graduate Student (research assistant)
 - Tofigh Sahay, Graduate Student (research assistant)
+- Quang Nguyen, Graduate Student (research assistant)
+- Scott Gale, Graduate Student (research assistant)
 - Aspen Hopkins, Undergraduate Student
 - Trenton Taylor, Undergraduate Student
 - Kyle Tingey, Undergraduate Student
 - Matt Dailey, Undergraduate Student
+- Henry Gilbert, Undergraduate Student
 
 
 
@@ -51,9 +54,30 @@ The combined system will be a reliable and scalable cyber-physical framework for
 
 ### Journals or Juried Conference Papers
 
-- K. Le, K. Tingey, T. Becnel, P. Giallardon, T. Butterfield/K. Kelly Building Air Quality Sensors & Citizen Scientists, Chemical Engineering Education. Proc. ASEE Annual Meeting, June 23 – 27, Salt Lake City, UT. 
+- T. Becnel, K. Tingey, J. Whitaker, T. Sayahi, K. Le, P. Goffin, A. Butterfield, K. Kelly, Pierre-Emmanuel Gaillardon (2019) A distributed low-cost pollution monitoring platform. Volume 6, Issue 6, December 2019, 10738-10748 Internet of Things Journal https://doi.org/10.1109/JIOT.2019.2941374
+- T. Sayahi, D. Kaufman, T. Becnel, K. Kaur, A. Butterfield, S. Collingwood, Y. Zhang, P.-E. Gaillardon, K.E. Kelly (2019) Development of a calibration chamber to evaluate the performance of low-cost particulate matter sensors, Environmental Pollution. 255, 113131. https://doi.org/10.1016/j.envpol.2019.113131
+- T. Becnel, K. Le, A.E. Butterfield, K.E. Kelly, P.E. Giallardon (2019) A recursive approach to partially blind calibration of a pollution sensor network, Proceedings of the 2019 IEEE International Conference on Embedded Software and Systems (ICESS), June 2 – 3, Las Vegas, NV https://doi.org/10.1109/ICESS.2019.8782523
+- T. Sayahi, A. Butterfield, K.E. Kelly (2019) Long-term field evaluation of the Plantower PMS low-cost particulate matter sensors, Environmental Pollution, 245, 932-940. https://doi.org/10.1016/j.envpol.2018.11.065
+- K. Le, K. Tingey, T. Becnel, P. Gailardon, T. Butterfield, K.E. Kelly (2018) Building air quality sensors & inspiring citizen scientists, Chemical Engineering Education, 52, 3, 193-201.  William H. Corcoran Award for the best paper in Chemical Engineering Education in 2018.
 
 ### Other Conference Presentations / Papers
+- D.V. Mallia, A. Kochanski, K.E. Kelly, R.T. Whitaker, W. Xing, L. Mitchell, A. Jacques, A. Farguell, J. Mandel, and S. Krueger, Validating wildfire smoke transport within a coupled fire-atmosphere model using a novel high-density instrumentation network, Smoke Symposium, UC Davis, California, April 20-24, 2020.
+- K. Kelly, award talk, Community-engaged environmental measurements. AIChE Annual Meeting, Orlando, FL, November 10-15, 2019.
+- K. Kelly, W. Xing, P. Goffin, T. Sayahi, T. Becnel, P-E. Gaillardon, A.E. Butterfield, M. Meyer, R. Whitaker, Understanding how pollution episodes affect community-level air quality with a distributed sensor network, AIChE Annual Meeting, Orlando, FL, November 10-15, 2019.
+- J. Moore, W. Xing, M. Dailey, K. Le, T. Becnel, P. Goffin, M. Meyer, P-E Gaillardon, R.Whitaker, J. Wiese, A.E. Butterfield, K.E. Kelly, Engaging middle and high school students in hypothesis generation using a citizen-scientist network of air quality sensors, AIChE Annual Meeting, Orlando, FL, November 10-15, 2019. 
+- S. Wickelson, A.E. Butterfield, M. Dailey, K.E. Kelly Using air-quality challenges to engage students in science and engineering, National Science Teachers Association Annual Meeting, Salt Lake City, Utah, October 25, 2019.
+- K. Kelly, iThe Air We Breathe, Environmental Health Literacy, Salt Lake City, UT, October 2, 2019,.
+- K. Kelly, P. Gaillardon, R. Whitaker invited, Internal Medicine Grand Rounds, AQ&U: community-engaged, network for understanding geospatial differences in pollution, Salt Lake City, UT, September 25, 2019. 
+- K. Kelly,  Low-cost particulate matter sensing, a different perspective.  US EPA Region 8, environmental monitoring annual meeting.  Salt Lake City, UT, September 11, 2019. 
+- K. Kelly, Community-engaged air quality measurements in Utah. Utah State University Seminar Series, February 14, 2019.
+- K. Kelly, Community-engaged air quality measurements in the Salt Lake Valley. University of Utah Pulmonary Research Progress, February 13, 2019.
+- K. Kelly, invited panelist, Community-based air quality measurements in the Salt Lake Valley. University of Utah Wallace Stegner Environmental Dispute Resolution Program, Dialogue on Air Quality, December 6, 2018.
+- K. Kelly, invited, Low-cost sensing and community air quality.  Capitol Hill Community Council, September 12, 2018.
+- T. Sayahi, P.-E. Gaillardon, R. Whitaker, M. Meyer, T. Butterfield, P. Goffin, T. Becnel, A. Biglari, D. Kaufman, T. Sayahi, W. Xing, K. Kelly Platform: Long-term evaluation of the plantower PMS sensor.  10th International Aerosol Conference, September 2nd-7th, St. Louis, Mo, 2018.
+- K.E. Kelly, P.-E. Gaillardon, R. Whitaker, M. Meyer, T. Butterfield, P. Goffin, T. Becnel, A. Biglari, D. Kaufman, T. Sayahi, W. Xing, Poster: A layered framework for integrating low-cost sensor data and for engaging citizens to understand PM2.5 exposure.  10th International Aerosol Conference, September 2nd-7th, St. Louis, Mo, 2018.
+- K.E. Kelly, Using low-cost IoT solutions to understand and address local air-quality challenges, MPSoC, July 31, 2018, Snowbird, UT.
+- T. Sayahi, K.E. Kelly, AQandU Project: evaluation of a low-cost air quality sensor network in the Wasatch front, United States, International Network of Environmental Forensics (INEF) annual conference, Platform Presentation, June 25th-27th, 2018, University of Utah, Salt Lake City, Utah, United States of America.
+- K.E. Kelly, Low-cost sensing of pollution variation within communities. US Ignite, Kansas City, MO, March 27, 2018.
 - P. Goffin, A. Hopkins, W. Willett, M Meyer. Challenges in Urban Air Quality Data Visualization. Proceedings of the IEEE VIS Workshop on Urban Data Visualization (CityVis).  
 - K. Kelly, T. Sayahi, A. Petty, A. Butterfield (2017). Evaluation of the Plantower PMS Low-Cost Particulate Matter Sensor. Air Quality: Science for Solutions. Salt Lake City, UT. 
 - T. Sahay, T. Butterfield, K. Kelly (2017). Laboratory and Field Calibration of a Low-Cost Particulate Matter Sensor. AAAR Annual Meeting. Raleigh, NC. 
@@ -64,7 +88,7 @@ The combined system will be a reliable and scalable cyber-physical framework for
 ## Code + Websites
 
 
-- Frontend: [Repository](https://github.com/visdesignlab/aqandu)
+- Frontend: [Repository](https://github.com/aqandu/aqandu_live_site)
 - Modeling: [Repository](https://github.com/pgoffin/AirU-website)
 - Backend: [Repository](https://github.com/pgoffin/aqandu_cade_api)
 - AirU Hardware and Firmware: [Repository](https://github.com/LNIS-Projects/AirU)
